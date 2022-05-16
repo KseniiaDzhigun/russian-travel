@@ -1,0 +1,24 @@
+.places__paragraph {
+  margin: 0 0 27px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.63;
+}
+
+.places__paragraph:last-child {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 1023px) {
+  .places__paragraph {
+    margin-bottom: 25px;
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .places__paragraph {
+    padding: 0 16px;
+  }
+}
