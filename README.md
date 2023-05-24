@@ -1,19 +1,11 @@
-# Проект: Путешествие по России
+# Russian Travel
 
-Проект, созданный в рамках обучения веб-разработке на платформе Яндекс Практикум.
+Russian Travel is a static website showcasing various travel destinations in Russia. The website provides information, beautiful images, and travel tips for different regions, cities and landmarks. It aims to inspire travelers and find ideas for future trips.
 
-Представляет собой одностраничный сайт, посвященный путешествиям по России:
-https://kseniiadzhigun.github.io/russian-travel/
+Russian Travel is a training project, designed as a landing page consisting of multiple sections. It follows responsive design principles, ensuring optimal viewing and usability across different devices and screen sizes.
 
-Адаптивная вёрстка позволяет правильно отображать содержимое сайта на любых разрешениях экранов и устройствах.
-
-## Технологии, используемые при создании сайта: HTML и CSS
-
-## Планы по доработке проекта:
-1. Проверить код на кроссбраузерность на сайте https://caniuse.com/ и дописать вендорные префиксы
-2. Поменять наполнение блока cover: сайт, на который сейчас переходят по ссылке, отображается некоректно.
-
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
+## Technologies Used
+- HTML
+- CSS
+- Responsive layout
+- Block-Element-Modifier principle of dividing the interface into independent blocks
